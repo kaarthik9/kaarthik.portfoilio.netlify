@@ -1,0 +1,34 @@
+
+a:hover {
+  background-color: orange !important;
+  color: black !important;
+}
+
+
+.about {
+  background-color: #1bbc9b;
+  color: #ecfdf9;
+  height: 100vh;
+  font-family: monospace;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-pic {
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  box-shadow: #0a8269 2px 5px 5px;
+}
+
+.about-text {
+  margin: 10px;
+}
+
+.github {
+  color: #ecfdf9;
+}
+
